@@ -1,8 +1,8 @@
-## [Nome do Membro]
+## João Victor Martins
 
-Breve descrição sobre você e suas áreas de interesse/expertise.
+Estudante de Análise e Desenvolvimento de Sistemas, e biomédico por formação. Meu maior interesse é pela área de ciência de dados, e tenho conhecimento em python, SQL, Excel, e um pouco de desenvolvimento web.  
 
 ### Links:
 
-- GitHub: [link para o perfil do GitHub](link_do_perfil)
-- LinkedIn: [link para o perfil do LinkedIn](link_do_perfil)
+- GitHub: [JVMA0111](https://github.com/JVMA0111)
+- LinkedIn: [joão Victor Martins Antunes](https://www.linkedin.com/in/jo%C3%A3o-victor-martins-antunes-660954184/)
