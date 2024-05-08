@@ -1,6 +1,6 @@
 ## João Victor Martins
 
-Estudante de Análise e Desenvolvimento de Sistemas, e biomédico por formação. Meu maior interesse é pela área de ciência de dados, e tenho conhecimento em python, SQL, Excel, e um pouco de desenvolvimento web.  
+Estudante de Análise e Desenvolvimento de Sistemas, e biomédico por formação. Meu maior interesse é pela área de ciência de dados, além disso tenho conhecimento em python, SQL, Excel, e um pouco de desenvolvimento web.  
 
 ### Links:
 
